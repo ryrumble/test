@@ -1,8 +1,8 @@
-The goal is to learn more about DevOps.
+The goal is to use this repo to learn more about DevOps.
 
 Successful implementation so far:
   A linter from Github Actions
------
+
 Outside of consumiing a ton of content on DevOps, SRE, and CI/CD, I will use this project for hands-on experience.
 No idea how I will approach that.. For now, I know I want to use Python.
   For this project, I am listing out some ideas for the tech stack..
