@@ -11,6 +11,7 @@ But your function should be able to work with any list value passed to it.
 Be sure to test the case where an empty list [] is passed to your function.
 '''
 def format_list(input_list):
+    """This function takes a list, and then returns the list to the user, separated by commas if there is more than one thing."""
     if len(input_list) == 0:
         return "nothing"
     if len(input_list) == 1:
