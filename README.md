@@ -1,7 +1,7 @@
 The goal is to use this repo to learn more about DevOps.
 
 Successful implementation so far:
-  A linter from Github Actions
+  CI! A python linter from Github Actions is added. See the .yaml file in the project.
 
 Outside of consumiing a ton of content on DevOps, SRE, and CI/CD, I will use this project for hands-on experience.  
 No idea how I will approach that.. For now, I know I want to use Python.  
